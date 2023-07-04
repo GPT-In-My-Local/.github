@@ -36,6 +36,7 @@
 
   ![Static Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 
+<br>
 
 ## 🏗️ Structures
 
