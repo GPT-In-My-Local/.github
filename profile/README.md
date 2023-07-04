@@ -12,34 +12,35 @@
 
 ## 🪜 stacks
 
-* Programming Languages
+* **Programming Languages**
 
   ![Static Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/OpenJDK-D3D3D3?logo=openjdk&logoColor=white)
 
-* Frameworks and Libraries
+* **Frameworks and Libraries**
 
   ![Static Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 
-* AI Technology
+* **AI Technology**
 
   ![Static Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
-* Containerization and Orchestration
+* **Containerization and Orchestration**
 
   ![Static Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-* Cloud Services
+* **Cloud Services**
 
   ![Static Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 
 
 ## 🏗️ Structures
 
-* `documents-archive`
+* **`documents-archive`**
+  
   - 프로젝트와 관련된 문서 및 자료가 저장되어 있다.
 
 <br>
