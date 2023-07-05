@@ -13,14 +13,14 @@
 ## 🪜 stacks
 
 * **Programming Languages**
-
-  ![Static Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+  
   ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/OpenJDK-D3D3D3?logo=openjdk&logoColor=white)
 
 * **Frameworks and Libraries**
-
-  ![Static Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+  
+  ![Static Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 
 * **AI Technology**
