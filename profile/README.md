@@ -22,6 +22,7 @@
 * **Frameworks and Libraries**
   
   ![Static Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 
 * **AI Technology**
